@@ -1,1 +1,1 @@
-# aws-in-dind : 18.09
+# dind-awscli-compose : 18.09
