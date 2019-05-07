@@ -1,1 +1,6 @@
-# dind-awscli-compose : 18.09
+## dind-awscli-compose : 18.09
+#### variables
+```
+AWS_ACCESS_KEY_ID: "AKIAIOSFODNN7EXAMPLE"
+AWS_SECRET_ACCESS_KEY: “wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY”
+```
